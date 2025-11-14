@@ -1,6 +1,7 @@
-## Hi there 👋
+ai strategist • product manager
+hint › 01101110 01100101 01110010 01100100
 
-<!--
+<!-
 **DimitriosCha/DimitriosCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
